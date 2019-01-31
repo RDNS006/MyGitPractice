@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is D64F-B495
+
+ Directory of E:\JIRA_Admin_Tutorial_Videos\Devops_Videos\Git_Software\MyGitPractice
+
+01/31/2019  04:56 PM    <DIR>          .
+01/31/2019  04:56 PM    <DIR>          ..
+01/31/2019  04:56 PM                 0 sample.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  44,814,524,416 bytes free
